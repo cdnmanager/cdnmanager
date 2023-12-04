@@ -1,1 +1,1 @@
-market://search?q=zegostudio
+market://details?id=com.jura.gangster.crime
